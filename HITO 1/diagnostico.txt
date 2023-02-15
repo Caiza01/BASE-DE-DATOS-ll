@@ -1,0 +1,17 @@
+1 ¿ QUE ES UNA BASE DE DATOS RELACIONAL ?
+
+es una coleccion de informacion que organiza datos en relaciones predifinidas, en la que los datos
+se almacenan en una o mas tablas 
+
+
+
+2 ¿ QUE ES DML ?
+
+es la data manipulation lenguajes y se refiere a los comandos que permiten a un usuario manipular
+todos los datos en un repositorio es decir : añadir, consultas 
+
+
+
+3 ¿ QUE ES DDL? 
+
+es un script de objetos de base de datos
